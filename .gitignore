@@ -10,7 +10,6 @@ ckpt/
 
 # dataset
 datasets/
-data/
 
 # logs
 *.json
