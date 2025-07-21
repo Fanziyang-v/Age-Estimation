@@ -1,0 +1,26 @@
+# checkpoints
+checkpoints/
+ckpt/
+*.pth
+*.ckpt
+*.pt
+*.onnx
+*.tflite
+*.h5
+
+# dataset
+datasets/
+data/
+
+# logs
+*.json
+*.jsonl
+logs/
+log/
+
+# cache files
+__pycache__/
+
+# settings
+.vscode/
+.idea/
